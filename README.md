@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/MaryAngelique/movie-app)
+- Solution URL: [https://github.com/MaryAngelique/button-ripple)
 - Live Site URL: [vercel link)
 
 ## My process
